@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    width : 100% ;
+    font-size: 25px;
+}
+
+#songName{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    width : 30%
+}
+
+canvas{
+    border: 3px solid tomato;
+    box-shadow: 5px 5px 5px black;
+}
